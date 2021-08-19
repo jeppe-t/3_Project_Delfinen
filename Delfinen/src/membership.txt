@@ -1,0 +1,559 @@
+----------------------------------------
+Member: 
+ID: 1
+Name: sbg
+Age: 34
+Mail: fsgn
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: sbg
+Age: 34
+Mail: fsgn
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 23
+Name: fgjdsh
+Age: 26
+Mail: skjlfd
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: thegtjd
+Age: 12
+Mail: dgsf
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: jens
+Age: 12
+Mail: jens@gmail.com
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: shjklffg
+Age: 31
+Mail: dsfgjdfgj
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: shjklffg
+Age: 31
+Mail: dsfgjdfgj
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: hans
+Age: 14
+Mail: dfilughosidluhg
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Jens
+Age: 12
+Mail: sdfkjbguitkhjok
+Active Member: true
+MotionComp: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Karl
+Age: 13
+Mail: dlkfjbgsiudg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Karl
+Age: 13
+Mail: dlkfjbgsiudg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: Frank
+Age: 34
+Mail: dlfiughoiufnbg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Karl
+Age: 13
+Mail: dlkfjbgsiudg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: Frank
+Age: 34
+Mail: dlfiughoiufnbg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: Yvonne
+Age: 78
+Mail: ædfghpisodut
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1234
+Name: Jens
+Age: 501
+Mail: rlighoisnlkg
+Active Member: false
+MotionComp: true
+Yearly Fee: 500
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Bo
+Age: 43
+Mail: slkjoiulhgksjd
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: fdghdf
+Age: 12
+Mail: sfdhjn
+Active Member: true
+MotionComp: true
+Yearly Fee: 0
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: sdlifj
+Age: 34
+Mail: dfhkgf
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: dfgyjukjfn
+Age: 34
+Mail: gfhdfgjh,
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: hdfgh
+Age: 123
+Mail: dhfghjdf
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: gdf
+Age: 12
+Mail: dgh
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Jens
+Age: 32
+Mail: glksdubhj
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Bo
+Age: 23
+Mail: sdfghsdfg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Bo
+Age: 23
+Mail: sdfghsdfg
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: Jan
+Age: 12
+Mail: slduhgois
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 1
+Mail: asdasd
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 1
+Mail: asdasd
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: sadasdsad
+Age: 13
+Mail: asdassadsd
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: sadasda
+Age: 18
+Mail: sadas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: sadasda
+Age: 18
+Mail: sadas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: asdasdasd
+Age: 123
+Mail: acxcsadas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: sadasda
+Age: 123
+Mail: asdas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: sadasda
+Age: 123
+Mail: asdas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: sadasdsa
+Age: 13
+Mail: sadaswa
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 1
+Mail: sadasdas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 1
+Mail: sadasdas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: 123
+Age: 123
+Mail: wae
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: dadsas
+Age: 1
+Mail: adsda
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 13
+Mail: asdasda
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 3
+Name: asdasd
+Age: 13
+Mail: asdasda
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: saddasdas
+Age: 13
+Mail: adsasdas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: 1
+Age: 1
+Mail: 1
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2345678
+Name: kuyfyytf
+Age: 56
+Mail: lidusfhgisl
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: john
+Age: 11
+Mail: scaas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: john
+Age: 11
+Mail: scaas
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: hans
+Age: 86
+Mail: asdasd
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: asdasd
+Age: 11
+Mail: asdasda
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: asdasd
+Age: 11
+Mail: asdasda
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: sdadsad
+Age: 85
+Mail: asdsa
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: sadasdas
+Age: 11
+Mail: sdasads
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: sadasdas
+Age: 11
+Mail: sdasads
+Active Member: true
+MotionComp: true
+Yearly Fee: 1000
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 2
+Name: asdsadsa
+Age: 811
+Mail: sadsada
+Active Member: true
+MotionComp: true
+Yearly Fee: 1150
+Fee paid: true
+----------------------------------------
+----------------------------------------
+Member: 
+ID: 1
+Name: Jeppe
+Age: 36
+Mail: sds@sdas.com
+Active Member: true
+MotionComp: true
+Yearly Fee: 1600
+Fee paid: true
+----------------------------------------

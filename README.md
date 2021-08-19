@@ -1,2 +1,2 @@
-# 3_Project_Delfinen
-Project on making an administrative system for a sports club.
+# Delfinen
+3 Ugers Delfin projekt ("Svømmehalsplatform")
